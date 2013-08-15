@@ -2,8 +2,6 @@ FAULTLINE = 1
 PARTICLE = 2
 DIAMOND_SQUARE = 3
 
-
-import faultLineGenerator
 import particleDepositionGenerator
 import diamondSquareGenerator
 import tempGenerator
