@@ -1,0 +1,22 @@
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.pyc
+
+*.out
+
+# Compiled Dynamic libraries
+*.so
+*.dll
+
+# compiling stuffs
+obj/
+bin/
+
+# Mac OS X
+.DS_Store
+
+# Output executables
+*.out
+*.exe
